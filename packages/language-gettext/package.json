@@ -1,0 +1,34 @@
+{
+  "name": "language-gettext",
+  "version": "0.6.1",
+  "description": "Gettext support for Atom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudRinquin/atom-language-gettext.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://atom.io/packages/language-gettext",
+  "bugs": {
+    "url": "https://github.com/ArnaudRinquin/atom-language-gettext/issues"
+  },
+  "readme": "# Gettext files support in Atom\n\nAdds syntax highlighting to `msgid`, `msgstr`, etc in Atom.\n\nAdds a few snippets:\n\n* `hdr` -> `\"$1: $2\\n\"`\n* `id` -> `msgid \"$1\"`\n* `idp` -> `msgid_plural \"$1\"`\n* `str` -> `msgstr \"$1\"`\n* `strp` -> `msgstr[$1] \"$2\"`\n* `ctx` -> `msgctxt \"$1\"`\n* `msg` -> `msgid + msgstr`\n* `msgp` -> `msgid + msgid_plural + msgstr + msgtrp_plural`\n* `msgc` -> `msgctxt + msgid + msgstr`\n* `msgcp` -> `msgctxt + msgid + msgid_plural + msgstr + msgtrp_plural`\n\nThe last `tab` navigation position is conveniently placed on a new line so you can chain quickly.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [Gettext TextMate bundle](https://github.com/textmate/gettext.tmbundle).\n\nContributions are greatly appreciated. Please fork this repository and open a\npull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "_id": "language-gettext@0.6.1",
+  "_shasum": "6bba4bbd763216392d18e746773cc35ea0b60d73",
+  "_resolved": "file:../d-115816-5581-1nobw6f/package.tgz",
+  "_from": "../d-115816-5581-1nobw6f/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

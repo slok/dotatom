@@ -1,0 +1,15 @@
+wiggum:
+  title: "wiggum"
+  paths: [
+    "/home/slok/projets/work/wiggum"
+  ]
+backoffice:
+  title: "backoffice"
+  paths: [
+    "/home/slok/projects/work/backoffice"
+  ]
+solweb:
+  title: "solweb"
+  paths: [
+    "/home/slok/projets/work/solweb"
+  ]

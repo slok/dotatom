@@ -1,0 +1,44 @@
+"*":
+  "exception-reporting":
+    userId: "d13db78e-ec94-5217-d0f8-b1257563b346"
+  welcome:
+    showOnStartup: false
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "spacegray-dark-ui"
+      "monokai"
+    ]
+    disabledPackages: [
+      "method-separator"
+      "welcome"
+      "debugger"
+      "atom-typescript"
+    ]
+    packagesWithKeymapsDisabled: [
+      "project-manager"
+    ]
+  "one-dark-ui": {}
+  editor:
+    invisibles: {}
+    fontFamily: "Source code pro"
+    lineHeight: 1.2
+    showIndentGuide: true
+    tabLength: 4
+    fontSize: 12
+  minimap: {}
+  "file-icons":
+    coloured: false
+  pigments: {}
+  linter:
+    showErrorTabLine: true
+    showErrorPanel: false
+  "highlight-line":
+    hideHighlightOnSelect: true
+  "linter-flake8":
+    executablePath: "/home/slok/.local/bin/flake8"
+    hangClosing: true
+  "git-diff":
+    showIconsInEditorGutter: true
+  "grammar-selector": {}
+  "atom-typescript": {}

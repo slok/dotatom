@@ -1,0 +1,60 @@
+{
+  "name": "debugger",
+  "main": "./lib/debugger",
+  "version": "0.0.1",
+  "description": "Allows for debugging of your project.",
+  "keywords": [
+    "debug",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom-community/debugger.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": {
+    "name": "Joe Fitzgerald",
+    "email": "jfitzgerald@pivotal.io",
+    "url": "http://github.com/joefitzgerald"
+  },
+  "homepage": "https://atom.io/packages/debugger",
+  "bugs": {
+    "url": "https://github.com/atom-community/debugger/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffeelint": ">=1.8.1",
+    "temp": ">=0.8.1",
+    "underscore-plus": "1.x"
+  },
+  "consumedServices": {
+    "debugger.provider": {
+      "versions": {
+        "0.1.0": "consumeProvider"
+      }
+    }
+  },
+  "readme": "# debugger package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "_id": "debugger@0.0.1",
+  "_shasum": "7c808cdd3e46dffdbae0406bf42d4a012096fe7c",
+  "_resolved": "file:../d-115817-16309-10zv1l/package.tgz",
+  "_from": "../d-115817-16309-10zv1l/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "coffeelint.json",
+        "package.json"
+      ],
+      ".coffee": [
+        "lib/debugger.coffee"
+      ]
+    },
+    "folders": []
+  }
+}

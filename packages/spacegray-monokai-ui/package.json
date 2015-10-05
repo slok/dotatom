@@ -1,0 +1,34 @@
+{
+  "name": "spacegray-monokai-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Port of the Spacegray Sublime Text theme to Atom. UI Theme to match base16 Monokai Syntax (http://chriskempson.github.io/base16/#monokai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyemorehouse/spacegray-monokai-ui.git"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# Spacegray Monokai UI theme\n\nPort of the [Spacegray](http://kkga.github.io/spacegray) Sublime Text theme to Atom.\nUI Theme to match base16 Monokai Syntax (http://chriskempson.github.io/base16/#monokai). \n\nIf these colors aren't to your liking, [check out my other packages!](https://atom.io/users/emilyemorehouse)\nOr make a request.\n\n\nCredit to  [cannikin's original port](https://github.com/cannikin/spacegray-dark-ui).\n\n![screenshot](https://s3-us-west-2.amazonaws.com/emilyemorehouse/spacegraymonokai)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/emilyemorehouse/spacegray-monokai-ui/issues"
+  },
+  "homepage": "https://github.com/emilyemorehouse/spacegray-monokai-ui#readme",
+  "_id": "spacegray-monokai-ui@1.0.0",
+  "_shasum": "efc29fc2ad3505fe2bd02d1b71346c61e6da139a",
+  "_resolved": "file:../d-115816-4363-2kqoqw/package.tgz",
+  "_from": "../d-115816-4363-2kqoqw/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
