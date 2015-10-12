@@ -26,7 +26,6 @@
     showIndentGuide: true
     tabLength: 4
     fontSize: 12
-  minimap: {}
   "file-icons":
     coloured: false
   pigments: {}
@@ -42,3 +41,10 @@
     showIconsInEditorGutter: true
   "grammar-selector": {}
   "atom-typescript": {}
+  hidpi:
+    scaleFactor: 1.7
+  "go-plus":
+    goPath: "/home/slok/.gvm/pkgsets/go1.5.1/global"
+    goInstallation: "/home/slok/.gvm/gos/go1.5.1"
+  minimap:
+    absoluteMode: true

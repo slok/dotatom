@@ -13,3 +13,8 @@ solweb:
   paths: [
     "/home/slok/projets/work/solweb"
   ]
+tsuru:
+  title: "tsuru"
+  paths: [
+    "/home/slok/projects/contributions/tsuru"
+  ]

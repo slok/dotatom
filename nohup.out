@@ -1,6 +1,17 @@
-[21565:0916/144444:ERROR:browser_main_loop.cc(170)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-App load time: 470ms
-[21592:0916/144444:INFO:renderer_main.cc(212)] Renderer process started
-[21565:0916/144446:INFO:CONSOLE(7)] "activate linter-python-pep8", source: /home/slok/.atom/packages/linter-python-pep8/lib/init.coffee (7)
-[21565:0916/144447:INFO:CONSOLE(46)] "Window load time: 1958ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)
+[4247:1012/105630:ERROR:browser_main_loop.cc(173)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+[4247:1012/105630:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105630:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105630:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105630:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4276:1012/105630:INFO:renderer_main.cc(200)] Renderer process started
+App load time: 273ms
+[4247:1012/105632:INFO:CONSOLE(46)] "Window load time: 1474ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)
+[4268:1012/105632:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:D0AE54CB023E0000]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4247:1012/105633:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
